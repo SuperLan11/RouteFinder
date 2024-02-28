@@ -1,0 +1,15 @@
+﻿  RouteFinder.cpp
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(172,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(179,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(184,48): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(217,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(220,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lando\source\repos\RouteFinder\RouteFinder\RouteFinder.cpp(248,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RouteFinder.vcxproj -> C:\Users\lando\source\repos\RouteFinder\Debug\RouteFinder.exe

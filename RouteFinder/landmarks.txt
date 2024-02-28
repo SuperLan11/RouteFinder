@@ -1,0 +1,41 @@
+4.30 Vehicles path
+4.33 First lamp
+4.37 Second lamp
+4.39 First grass lamp
+4.41 Third lamp
+4.43 Second grass lamp
+4.45 thin Tree group
+4.49 Huge tree
+4.53 Orange pole
+4.56 Tree pair downhill
+4.58 First sharp turn
+4.60 Trees start on right 
+4.63 Coyote sign
+4.65 Bushy tree
+4.68 Walking path sign
+4.74 First concrete branch
+4.77 Dense tree group
+4.79 Skeleton tree
+4.81 Second branch
+4.86 Bridge start
+4.87 Bridge exit
+4.91 Center of trees break on right
+4.92 Broken tree
+4.96 Second break right
+4.99 Third break right
+5.025 Fourth break right
+5.08 Big grass path right
+5.12 enter swamp
+5.15 First swamp grate
+5.18 Tight corner turn
+5.23 Swamp end
+5.26 River junk
+5.27 Brown manhole
+5.30 stump right before baseball sign
+5.32 baseball sign
+5.40 Tall tree among small trees
+5.43 Skate sign
+5.47 Spiky pine tree?
+5.50 Last small tree group 
+5.53 Dog sign
+5.56 Tree before vehicle sign
